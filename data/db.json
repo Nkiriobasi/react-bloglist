@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "Happy day!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted",
+      "author": "Smart",
+      "id": 1
+    },
+    {
+      "title": "American express",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted",
+      "author": "Vincent",
+      "id": 2
+    },
+        {
+      "title": "The old days",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted",
+      "author": "Bisong",
+      "id": 3
+    },
+        {
+      "title": "American express",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted",
+      "author": "Offa",
+      "id": 4
+    },
+        {
+      "title": "American express",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted",
+      "author": "Micheal",
+      "id": 5
+    }
+  ]
+}
